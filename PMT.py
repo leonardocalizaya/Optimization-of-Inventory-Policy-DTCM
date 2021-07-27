@@ -50,9 +50,15 @@ def stationary_distribution(matrix):
 # Hc: Holding Cost
 # Bc: Backorder Cost
 
-def expected_profit(p, Fc, Vc, Hc, Bc, s, S, D):
+'''
+Returns a dictionary of lists, where each list contains the average weekly variable
+of different matrix states. E.g. "Weekly Avg Profit": [100, 200, 500, 400, 300], 100 profit
+where the state is 0 (when we end this week with 0 items), 200 for state 1, etc.
+'''
 
-    result = []
+def expected_state_numbers(p, Fc, Vc, Hc, Bc, s, S, D):
+
+    result = {"Weekly Avg Profit": [], "Weekly Avg Sales" : [], "Weekly Avg Inventory Cost" : [], "Weekly Avg Order Cost": [], "Weekly Avg Revenues": []}
 
     for items in range(0, S+1):
         if items <= s:
@@ -68,15 +74,22 @@ def expected_profit(p, Fc, Vc, Hc, Bc, s, S, D):
 
         mindemand = [min(a, b) for a,b in zip(D.keys(), [inv for a in range(0, len(D.keys()))])]
 
-        revenue = p*sum([a*b for a,b in zip(mindemand, D.values())])
+        expected_sales = sum([a*b for a,b in zip(mindemand, D.values())])
+
+        revenue = p*expected_sales
 
         profit = revenue - TotalOrdCost - TotalHoldCost
 
-        result.append(profit)
+        result["Weekly Avg Profit"].append(profit)
+        result["Weekly Avg Sales"].append(expected_sales)
+        result["Weekly Avg Inventory Cost"].append(TotalHoldCost)
+        result["Weekly Avg Order Cost"].append(TotalOrdCost)
+        result["Weekly Avg Revenues"].append(revenue)
+
 
     return result
 
-d = expected_profit(2000, 1500, 1000, 100, 0, 1, 3, {0:0.1, 1:0.4, 2:0.3, 3:0.2})
+#d = expected_profit(2000, 1500, 1000, 100, 0, 1, 3, {0:0.1, 1:0.4, 2:0.3, 3:0.2})
 
 #print(sum([a*b for a, b in zip(c, d)]))
 

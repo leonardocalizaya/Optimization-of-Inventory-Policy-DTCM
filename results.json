@@ -1,0 +1,290 @@
+{
+    "(2, 10)": {
+        "Fraction of weeks that an order is placed": 0.41120880753305766,
+        "Weekly Avg Inventory Cost": 34.905841775884376,
+        "Weekly Avg Order Cost": 316.4780788665838,
+        "Weekly Avg Profit": 421.0778257841979,
+        "Weekly Avg Revenues": 772.4617464266662,
+        "Weekly Avg Sales": 3.86230873213333
+    },
+    "(2, 3)": {
+        "Fraction of weeks that an order is placed": 0.95,
+        "Weekly Avg Inventory Cost": 4.499999999999998,
+        "Weekly Avg Order Cost": 412.5,
+        "Weekly Avg Profit": 93.00000000000003,
+        "Weekly Avg Revenues": 510.00000000000006,
+        "Weekly Avg Sales": 2.55
+    },
+    "(2, 4)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238095,
+        "Weekly Avg Inventory Cost": 7.666666666666665,
+        "Weekly Avg Order Cost": 414.76190476190476,
+        "Weekly Avg Profit": 205.19047619047626,
+        "Weekly Avg Revenues": 627.6190476190477,
+        "Weekly Avg Sales": 3.138095238095238
+    },
+    "(2, 5)": {
+        "Fraction of weeks that an order is placed": 0.7776643990929707,
+        "Weekly Avg Inventory Cost": 11.759637188208615,
+        "Weekly Avg Order Cost": 410.6689342403629,
+        "Weekly Avg Profit": 287.0498866213152,
+        "Weekly Avg Revenues": 709.4784580498867,
+        "Weekly Avg Sales": 3.547392290249433
+    },
+    "(2, 6)": {
+        "Fraction of weeks that an order is placed": 0.7036011229888783,
+        "Weekly Avg Inventory Cost": 16.57375013497462,
+        "Weekly Avg Order Cost": 401.4110247273514,
+        "Weekly Avg Profit": 343.33797646042547,
+        "Weekly Avg Revenues": 761.3227513227515,
+        "Weekly Avg Sales": 3.8066137566137583
+    },
+    "(2, 7)": {
+        "Fraction of weeks that an order is placed": 0.6149048872553889,
+        "Weekly Avg Inventory Cost": 21.6642172444621,
+        "Weekly Avg Order Cost": 377.5162287672594,
+        "Weekly Avg Profit": 372.99860435084935,
+        "Weekly Avg Revenues": 772.1790503625709,
+        "Weekly Avg Sales": 3.8608952518128543
+    },
+    "(2, 8)": {
+        "Fraction of weeks that an order is placed": 0.5380141229350399,
+        "Weekly Avg Inventory Cost": 26.58321697258964,
+        "Weekly Avg Order Cost": 354.67421393314413,
+        "Weekly Avg Profit": 391.8224773047948,
+        "Weekly Avg Revenues": 773.0799082105286,
+        "Weekly Avg Sales": 3.8653995410526423
+    },
+    "(2, 9)": {
+        "Fraction of weeks that an order is placed": 0.4592592793730514,
+        "Weekly Avg Inventory Cost": 30.39489595909651,
+        "Weekly Avg Order Cost": 328.88010882759596,
+        "Weekly Avg Profit": 405.1342952760298,
+        "Weekly Avg Revenues": 764.4093000627222,
+        "Weekly Avg Sales": 3.8220465003136104
+    },
+    "(3, 10)": {
+        "Fraction of weeks that an order is placed": 0.4592592793730514,
+        "Weekly Avg Inventory Cost": 38.458817824205,
+        "Weekly Avg Order Cost": 338.5604995020535,
+        "Weekly Avg Profit": 426.11154543429404,
+        "Weekly Avg Revenues": 803.1308627605525,
+        "Weekly Avg Sales": 4.015654313802762
+    },
+    "(3, 4)": {
+        "Fraction of weeks that an order is placed": 0.95,
+        "Weekly Avg Inventory Cost": 7.999999999999998,
+        "Weekly Avg Order Cost": 445.0,
+        "Weekly Avg Profit": 187.0000000000001,
+        "Weekly Avg Revenues": 640.0000000000001,
+        "Weekly Avg Sales": 3.2000000000000006
+    },
+    "(3, 5)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238095,
+        "Weekly Avg Inventory Cost": 12.523809523809522,
+        "Weekly Avg Order Cost": 440.4761904761905,
+        "Weekly Avg Profit": 277.4761904761904,
+        "Weekly Avg Revenues": 730.4761904761905,
+        "Weekly Avg Sales": 3.652380952380952
+    },
+    "(3, 6)": {
+        "Fraction of weeks that an order is placed": 0.7776643990929707,
+        "Weekly Avg Inventory Cost": 17.84467120181405,
+        "Weekly Avg Order Cost": 430.2437641723357,
+        "Weekly Avg Profit": 339.68934240362813,
+        "Weekly Avg Revenues": 787.7777777777778,
+        "Weekly Avg Sales": 3.938888888888889
+    },
+    "(3, 7)": {
+        "Fraction of weeks that an order is placed": 0.703601122988878,
+        "Weekly Avg Inventory Cost": 24.140049670661917,
+        "Weekly Avg Order Cost": 413.5795270489147,
+        "Weekly Avg Profit": 372.27718388942884,
+        "Weekly Avg Revenues": 809.9967606090055,
+        "Weekly Avg Sales": 4.049983803045027
+    },
+    "(3, 8)": {
+        "Fraction of weeks that an order is placed": 0.6149048872553889,
+        "Weekly Avg Inventory Cost": 29.739259461607226,
+        "Weekly Avg Order Cost": 387.14101768153375,
+        "Weekly Avg Profit": 393.7979288765274,
+        "Weekly Avg Revenues": 810.6782060196683,
+        "Weekly Avg Sales": 4.053391030098341
+    },
+    "(3, 9)": {
+        "Fraction of weeks that an order is placed": 0.5380141229350399,
+        "Weekly Avg Inventory Cost": 34.83541261691253,
+        "Weekly Avg Order Cost": 363.41323571152964,
+        "Weekly Avg Profit": 409.78734699562864,
+        "Weekly Avg Revenues": 808.0359953240708,
+        "Weekly Avg Sales": 4.040179976620354
+    },
+    "(4, 10)": {
+        "Fraction of weeks that an order is placed": 0.53801412293504,
+        "Weekly Avg Inventory Cost": 43.681966360480665,
+        "Weekly Avg Order Cost": 369.1804669936891,
+        "Weekly Avg Profit": 418.24248709853845,
+        "Weekly Avg Revenues": 831.1049204527083,
+        "Weekly Avg Sales": 4.15552460226354
+    },
+    "(4, 5)": {
+        "Fraction of weeks that an order is placed": 0.95,
+        "Weekly Avg Inventory Cost": 12.999999999999996,
+        "Weekly Avg Order Cost": 470.0,
+        "Weekly Avg Profit": 257.0,
+        "Weekly Avg Revenues": 740.0,
+        "Weekly Avg Sales": 3.7000000000000006
+    },
+    "(4, 6)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238096,
+        "Weekly Avg Inventory Cost": 18.880952380952376,
+        "Weekly Avg Order Cost": 458.69047619047626,
+        "Weekly Avg Profit": 325.7619047619048,
+        "Weekly Avg Revenues": 803.3333333333335,
+        "Weekly Avg Sales": 4.016666666666668
+    },
+    "(4, 7)": {
+        "Fraction of weeks that an order is placed": 0.7776643990929705,
+        "Weekly Avg Inventory Cost": 25.8390022675737,
+        "Weekly Avg Order Cost": 440.2721088435374,
+        "Weekly Avg Profit": 361.780045351474,
+        "Weekly Avg Revenues": 827.8911564625851,
+        "Weekly Avg Sales": 4.139455782312925
+    },
+    "(4, 8)": {
+        "Fraction of weeks that an order is placed": 0.7036011229888781,
+        "Weekly Avg Inventory Cost": 32.87501349746247,
+        "Weekly Avg Order Cost": 419.9047079149119,
+        "Weekly Avg Profit": 382.51776266062,
+        "Weekly Avg Revenues": 835.2974840729944,
+        "Weekly Avg Sales": 4.176487420364971
+    },
+    "(4, 9)": {
+        "Fraction of weeks that an order is placed": 0.614904887255389,
+        "Weekly Avg Inventory Cost": 38.67061935035264,
+        "Weekly Avg Order Cost": 392.4842182378068,
+        "Weekly Avg Profit": 400.8961706566009,
+        "Weekly Avg Revenues": 832.0510082447603,
+        "Weekly Avg Sales": 4.1602550412238015
+    },
+    "(5, 10)": {
+        "Fraction of weeks that an order is placed": 0.6149048872553889,
+        "Weekly Avg Inventory Cost": 48.066906724942875,
+        "Weekly Avg Order Cost": 395.50278136485554,
+        "Weekly Avg Profit": 400.5555726631571,
+        "Weekly Avg Revenues": 844.1252607529556,
+        "Weekly Avg Sales": 4.220626303764777
+    },
+    "(5, 6)": {
+        "Fraction of weeks that an order is placed": 0.9499999999999997,
+        "Weekly Avg Inventory Cost": 19.5,
+        "Weekly Avg Order Cost": 487.49999999999994,
+        "Weekly Avg Profit": 303.00000000000017,
+        "Weekly Avg Revenues": 810.0000000000002,
+        "Weekly Avg Sales": 4.050000000000001
+    },
+    "(5, 7)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238096,
+        "Weekly Avg Inventory Cost": 27.190476190476197,
+        "Weekly Avg Order Cost": 467.1428571428571,
+        "Weekly Avg Profit": 342.80952380952385,
+        "Weekly Avg Revenues": 837.1428571428571,
+        "Weekly Avg Sales": 4.185714285714286
+    },
+    "(5, 8)": {
+        "Fraction of weeks that an order is placed": 0.7776643990929705,
+        "Weekly Avg Inventory Cost": 34.96712018140589,
+        "Weekly Avg Order Cost": 444.6315192743764,
+        "Weekly Avg Profit": 365.73015873015896,
+        "Weekly Avg Revenues": 845.3287981859412,
+        "Weekly Avg Sales": 4.2266439909297056
+    },
+    "(5, 9)": {
+        "Fraction of weeks that an order is placed": 0.7036011229888781,
+        "Weekly Avg Inventory Cost": 42.37344779181514,
+        "Weekly Avg Order Cost": 422.4125364431487,
+        "Weekly Avg Profit": 380.5428139509774,
+        "Weekly Avg Revenues": 845.3287981859413,
+        "Weekly Avg Sales": 4.226643990929706
+    },
+    "(6, 10)": {
+        "Fraction of weeks that an order is placed": 0.703601122988878,
+        "Weekly Avg Inventory Cost": 52.18750674873124,
+        "Weekly Avg Order Cost": 423.3422416585682,
+        "Weekly Avg Profit": 373.51787064031987,
+        "Weekly Avg Revenues": 849.0476190476194,
+        "Weekly Avg Sales": 4.245238095238096
+    },
+    "(6, 7)": {
+        "Fraction of weeks that an order is placed": 0.9500000000000001,
+        "Weekly Avg Inventory Cost": 28.000000000000007,
+        "Weekly Avg Order Cost": 494.9999999999999,
+        "Weekly Avg Profit": 317.0,
+        "Weekly Avg Revenues": 839.9999999999998,
+        "Weekly Avg Sales": 4.200000000000001
+    },
+    "(6, 8)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238096,
+        "Weekly Avg Inventory Cost": 36.595238095238095,
+        "Weekly Avg Order Cost": 470.1190476190476,
+        "Weekly Avg Profit": 342.33333333333354,
+        "Weekly Avg Revenues": 849.0476190476193,
+        "Weekly Avg Sales": 4.245238095238097
+    },
+    "(6, 9)": {
+        "Fraction of weeks that an order is placed": 0.7776643990929705,
+        "Weekly Avg Inventory Cost": 44.78117913832199,
+        "Weekly Avg Order Cost": 445.5612244897959,
+        "Weekly Avg Profit": 358.70521541950126,
+        "Weekly Avg Revenues": 849.0476190476193,
+        "Weekly Avg Sales": 4.245238095238096
+    },
+    "(7, 10)": {
+        "Fraction of weeks that an order is placed": 0.7776643990929705,
+        "Weekly Avg Inventory Cost": 54.73356009070295,
+        "Weekly Avg Order Cost": 445.7993197278912,
+        "Weekly Avg Profit": 349.46712018140613,
+        "Weekly Avg Revenues": 850.0000000000001,
+        "Weekly Avg Sales": 4.250000000000001
+    },
+    "(7, 8)": {
+        "Fraction of weeks that an order is placed": 0.9500000000000001,
+        "Weekly Avg Inventory Cost": 37.49999999999999,
+        "Weekly Avg Order Cost": 497.5000000000001,
+        "Weekly Avg Profit": 315.00000000000017,
+        "Weekly Avg Revenues": 850.0000000000002,
+        "Weekly Avg Sales": 4.250000000000001
+    },
+    "(7, 9)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238095,
+        "Weekly Avg Inventory Cost": 46.547619047619044,
+        "Weekly Avg Order Cost": 470.3571428571429,
+        "Weekly Avg Profit": 333.0952380952383,
+        "Weekly Avg Revenues": 850.0000000000001,
+        "Weekly Avg Sales": 4.25
+    },
+    "(8, 10)": {
+        "Fraction of weeks that an order is placed": 0.8595238095238095,
+        "Weekly Avg Inventory Cost": 56.547619047619044,
+        "Weekly Avg Order Cost": 470.3571428571429,
+        "Weekly Avg Profit": 323.0952380952383,
+        "Weekly Avg Revenues": 850.0000000000003,
+        "Weekly Avg Sales": 4.250000000000001
+    },
+    "(8, 9)": {
+        "Fraction of weeks that an order is placed": 0.9499999999999998,
+        "Weekly Avg Inventory Cost": 47.49999999999999,
+        "Weekly Avg Order Cost": 497.5,
+        "Weekly Avg Profit": 305.0000000000002,
+        "Weekly Avg Revenues": 850.0000000000002,
+        "Weekly Avg Sales": 4.250000000000001
+    },
+    "(9, 10)": {
+        "Fraction of weeks that an order is placed": 0.9499999999999998,
+        "Weekly Avg Inventory Cost": 57.5,
+        "Weekly Avg Order Cost": 497.5,
+        "Weekly Avg Profit": 295.0000000000003,
+        "Weekly Avg Revenues": 850.0000000000002,
+        "Weekly Avg Sales": 4.25
+    }
+}
